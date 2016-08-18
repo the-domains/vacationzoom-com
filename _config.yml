@@ -2,6 +2,7 @@ name: vacationzoom.com
 favicon: null
 layout_spectrum: 0.7429183141794056
 typography_spectrum: 0.6534434182103723
+title: vacations
 cta:
   domain: null
   bucket: null
